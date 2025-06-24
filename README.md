@@ -19,3 +19,8 @@
     streamlit run main.py
     ```
 
+
+## Materiais utilizados
+
+1. Modelo: YOLOV8n
+2. Dataset: Caltech256 (Disponível pelo Ultralytics)
